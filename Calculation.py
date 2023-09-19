@@ -4,4 +4,3 @@ reference = "hello world"
 hypothesis = "hello duck"
 
 error = wer(reference, hypothesis)
-print: error
